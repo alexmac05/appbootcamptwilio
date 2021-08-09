@@ -1,0 +1,20 @@
+{
+  "name": "appbootcamptwilio",
+  "version": "1.0.0",
+  "description": "At Twilio there is an App Bootcamp class for employees. I am working on that app bootcamp with this code. I am using node.js for this project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmac05/appbootcamptwilio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmac05/appbootcamptwilio/issues"
+  },
+  "homepage": "https://github.com/alexmac05/appbootcamptwilio#readme"
+}
